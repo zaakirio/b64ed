@@ -9,6 +9,7 @@ homepage = "https://github.com/zaakirio/b64ed/"
 repository = "https://github.com/zaakirio/b64ed/"
 keywords = ["cli", "base64", "encode","decode","b64","cli-tool"]
 categories = ["command-line-utilities"]
+edition = "2021"
 
 [dependencies]
 base64 = "0.21.2"
