@@ -1,4 +1,4 @@
-# b64ed 🌐
+# b64ed 
 CLI tool for base64 encoding/decoding written in Rust ✨
 # Installation 📦 
 - `cargo install b64ed`
