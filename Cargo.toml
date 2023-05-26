@@ -7,7 +7,7 @@ description = "CLI Tool to base64 encode/decode"
 readme = "README.md"
 homepage = "https://github.com/zaakirio/b64ed/"
 repository = "https://github.com/zaakirio/b64ed/"
-keywords = ["cli", "base64", "encode","decode","b64","cli-tool"]
+keywords = ["cli", "base64", "encode","decode","b64"]
 categories = ["command-line-utilities"]
 edition = "2021"
 
